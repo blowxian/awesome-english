@@ -150,6 +150,7 @@ The list includes language exchange platforms, apps for pronunciation, forums.
 - [BoldVoice](https://yvoronoy.github.io/awesome-english/go/boldvoice/) - Accent-coaching app with instant AI and real-coach feedback to make your spoken English clearer.
 - [Speak](https://yvoronoy.github.io/awesome-english/go/speak/) - AI conversation partner you talk to out loud for real speaking practice.
 - [Speechling](https://yvoronoy.github.io/awesome-english/go/speechling/) - Record sentences and get pronunciation feedback from real human coaches, free.
+- [Accent Test](https://accent-test.com/) - Record a short English passage and receive AI-generated accent and pronunciation feedback.
 
 ## Watching
 
